@@ -21,7 +21,7 @@ Pantalla Base de Datos Firestore
 ![imagen](src/components/images/firestore1.png)
 
 Pantalla Agregar Documento en Firestore
-![imagen](src/components/images/firestore2.png)
+![imagen](src/components/images/firestore3.png)
 
 Pantalla Mostrar Campos de la colección
-![imagen](src/components/images/firestore3.png)
+![imagen](src/components/images/firestore4.png)
